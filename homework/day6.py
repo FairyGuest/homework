@@ -172,3 +172,5 @@ try:
         print("非对称数")
 except ValueError:
     print("类型错误，请输入整数")
+
+    
